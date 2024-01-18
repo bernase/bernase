@@ -1,6 +1,6 @@
-# <center>⌨️ It's Berna</center>
+# <p align="center">⌨️ It's Berna</p>
 
-### <center>Software Engineer with expertise in AI and Web development</center>
+### <p align="center">Software Engineer with expertise in AI and Web development</p>
 
 <div style="display: flex;">
   <div style="flex: 1;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a> </div>
