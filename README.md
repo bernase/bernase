@@ -2,14 +2,10 @@
 
 ### <p align="center">Software Engineer with expertise in AI and Web development</p>
 
-<div style="display: flex;">
-  <div style="flex: 1;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a> </div>
-  <div style="flex: 1;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software</a></div>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 5px;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a></div>
+  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software</a></div>
 </div>
-
-
-
-
 
 
 ### Skills
