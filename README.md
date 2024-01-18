@@ -1,4 +1,4 @@
-Hi 👋 My name is Berna
+Hi 👋 It's Berna
 ======================
 
 Software Engineer
