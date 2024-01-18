@@ -1,11 +1,16 @@
-Hi 👋 It's Berna
-======================
+# <center>⌨️ It's Berna</center>
 
-Software Engineer
------------------
+### <center>Software Engineer with expertise in AI and Web development</center>
 
-* ✉️  You can contact me at [bernaserit@gmail.com](mailto:bernaserit@gmail.com)
-* 🚀  I'm currently working on [VOIAR - robot that utilizes vision-only autonomous software](http://github.com/cadenai)
+<div style="display: flex;">
+  <div style="flex: 1;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a> </div>
+  <div style="flex: 1;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software</a></div>
+</div>
+
+
+
+
+
 
 ### Skills
 
