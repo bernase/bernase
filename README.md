@@ -4,7 +4,6 @@ Hi 👋 My name is Berna
 Software Engineer
 -----------------
 
-* 🌍  I'm based in the Netherlands
 * ✉️  You can contact me at [bernaserit@gmail.com](mailto:bernaserit@gmail.com)
 * 🚀  I'm currently working on [VOIAR - robot that utilizes vision-only autonomous software](http://github.com/cadenai)
 
