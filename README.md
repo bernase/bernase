@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 5px;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a></div>
-  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software</a></div>
+  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software for a company named MWLC BV.</a></div>
 </div>
 
 
@@ -18,7 +18,10 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/bernase" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/berna-serit/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">  
+  <a href="https://www.linkedin.com/in/berna-serit/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+  <a href="https://www.goodreads.com/user/show/127430097" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://d.gr-assets.com/misc/1454549143-1454549143_goodreads_misc.png" /> <source media="(prefers-color-scheme: light)" srcset="https://d.gr-assets.com/misc/1454549143-1454549143_goodreads_misc.png" /> <img src="https://d.gr-assets.com/misc/1454549143-1454549143_goodreads_misc.png" width="32" height="32" /> </picture> </a>
+</p>
 
 <!--
 **bernase/bernase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +34,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.github.com/bernase" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
 -->
