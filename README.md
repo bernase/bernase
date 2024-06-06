@@ -8,8 +8,6 @@
 </div>
 
 
-[![Top Language](https://img.shields.io/github/languages/top/bernase/REST-API)](https://github.com/:user/:repo)
-
 
 ### Skills
 
@@ -40,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 <a href="https://www.github.com/bernase" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+[![Top Language](https://img.shields.io/github/languages/top/bernase/REST-API)](https://github.com/:user/:repo)
 -->
