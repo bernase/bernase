@@ -7,7 +7,7 @@
   <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://githubtrends.io">
     <img src="https://api.githubtrends.io/user/svg/bernase/langs?time_range=one_year&compact=True&theme=synthwaves" alt="GitHub Trends SVG">
   </a>
