@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 5px;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a></div>
-  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software for a company named MWLC BV.</a></div>
+  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
 </div>
 
 [![GitHub Trends SVG](https://api.githubtrends.io/bernase/svg/avgupta456/langs)](https://githubtrends.io)
