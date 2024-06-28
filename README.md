@@ -7,7 +7,7 @@
   <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
 </div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/bernase/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/bernase/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 
 ### Skills
