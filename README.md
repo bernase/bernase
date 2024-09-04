@@ -8,8 +8,7 @@
 </div>
 
 ```diff
-! text in orange
-@ text in purple @
+! dasdfa
 ```
 
 <br>
