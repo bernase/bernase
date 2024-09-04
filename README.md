@@ -7,10 +7,6 @@
   <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
 </div>
 
-```diff
-! dasdfa
-```
-
 <br>
 
 <p align="center">
