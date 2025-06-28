@@ -4,16 +4,15 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div style="flex: 1; margin-right: 5px;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a></div>
-  <div style="flex: 1; margin-left: 5px;">🤖 I'm currently working on <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
+  <div style="flex: 1; margin-left: 5px;">🤖 My previous work's public link <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
 </div>
 
 <br>
 
 <p align="center">
-  <a href="https://githubtrends.io">
-    <img src="https://api.githubtrends.io/user/svg/bernase/langs?time_range=one_year&compact=True&theme=synthwaves" alt="GitHub Trends SVG">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernase&layout=compact&theme=synthwave" alt="Top Langs">
 </p>
+
 
 ### Skills
 
