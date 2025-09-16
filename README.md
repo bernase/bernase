@@ -2,10 +2,9 @@
 
 ### <p align="center">Software Engineer in AI & Web development</p>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 5px;">✉️ You can contact me at <a href="mailto:bernaserit@gmail.com">bernaserit@gmail.com</a></div>
-  <div style="flex: 1; margin-left: 5px;">🤖 My previous work's public link <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a></div>
-</div>
+<p align="center">
+  🤖 My previous work's public link <a href="http://github.com/cadenai">VOIAR - robot that utilizes vision-only autonomous software.</a>
+</p>
 
 <br>
 
