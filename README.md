@@ -7,10 +7,11 @@
 </p>
 
 <br>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernase&layout=compact&theme=synthwave" alt="Top Langs">
 </p>
+-->
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Milyik?theme=radical&font=Scope%20One&ext=activity" alt="LeetCode Stats">
